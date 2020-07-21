@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
-
 #### 🌱 Check out what I'm currently working on
 
 - [guysoft/CloudHealth_to_Slack](https://github.com/guysoft/CloudHealth_to_Slack) - Script that sends cloudhealth daily to slack
@@ -53,3 +51,5 @@ Say Hello, I don't bite!
 - Twitter: https://twitter.com/guysoft
 - Fediverse: https://tooot.im/@guysoft
 - Blog: https://guysoft.wordpress.com
+
+Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
