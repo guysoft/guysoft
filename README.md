@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
-
 #### 🔭 Latest releases I've contributed to
 
 - [guysoft/EnergySource](https://github.com/guysoft/EnergySource) ([v0.0.28](https://github.com/guysoft/EnergySource/releases/tag/v0.0.28), today) - Energy Source Godot Jam project
