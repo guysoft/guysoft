@@ -2,6 +2,19 @@
 
 Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
 
+#### 🔭 Latest releases I've contributed to
+
+- [guysoft/EnergySource](https://github.com/guysoft/EnergySource) ([v0.0.28](https://github.com/guysoft/EnergySource/releases/tag/v0.0.28), today) - Energy Source Godot Jam project
+- [thecodingmachine/workadventure](https://github.com/thecodingmachine/workadventure) ([v1.6.4](https://github.com/thecodingmachine/workadventure/releases/tag/v1.6.4), 3 days ago) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
+- [guysoft/godot_import_action_reproduce](https://github.com/guysoft/godot_import_action_reproduce) ([v0.0.1](https://github.com/guysoft/godot_import_action_reproduce/releases/tag/v0.0.1), 5 days ago) - Reproduce https://github.com/guysoft/EnergySource/issues/3
+- [guysoft/OctoPi-Klipper](https://github.com/guysoft/OctoPi-Klipper) ([0.18.1](https://github.com/guysoft/OctoPi-Klipper/releases/tag/0.18.1), 1 month ago) - OctoPi klipper using the CustoPiZer distro builder
+- [guysoft/OctoPi-Klipper-CustomPiOS](https://github.com/guysoft/OctoPi-Klipper-CustomPiOS) ([0.18.0](https://github.com/guysoft/OctoPi-Klipper-CustomPiOS/releases/tag/0.18.0), 1 month ago) - Scripts to build OctoPi-Klipper, a Raspberry PI distro for controlling 3D printers over the web using OctoPrint and the Klipper firmware
+- [photoview/photoview](https://github.com/photoview/photoview) ([v2.3.9](https://github.com/photoview/photoview/releases/tag/v2.3.9), 1 month ago) - Photo gallery for self-hosted personal servers
+- [guysoft/PowerBeatsVR_song_writer](https://github.com/guysoft/PowerBeatsVR_song_writer) ([0.2.0](https://github.com/guysoft/PowerBeatsVR_song_writer/releases/tag/0.2.0), 3 months ago) - Convert a beats saber song to a powerbeats vr song
+- [imrahil/OctoPrint-PrintHistory](https://github.com/imrahil/OctoPrint-PrintHistory) ([1.3](https://github.com/imrahil/OctoPrint-PrintHistory/releases/tag/1.3), 4 months ago) - Plugin for OctoPrint - saves filename, print time and filament usage for each print
+- [guysoft/BackupFriendPi](https://github.com/guysoft/BackupFriendPi) ([0.1.0](https://github.com/guysoft/BackupFriendPi/releases/tag/0.1.0), 4 months ago) - A raspsberrypi distro you can put in your friend&#39;s house, or anywhere else, and it will let you backup your computer with history
+- [guysoft/BackupFriend-docker](https://github.com/guysoft/BackupFriend-docker) ([0.1.0](https://github.com/guysoft/BackupFriend-docker/releases/tag/0.1.0), 4 months ago) - Docker for RaspberryPi distro that lets backup your stuff to a friend
+
 #### 🌱 Check out what I'm currently working on
 
 - [guysoft/EnergySource](https://github.com/guysoft/EnergySource) - Energy Source Godot Jam project
@@ -24,19 +37,6 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 - [guysoft/CloudHealth_to_Slack](https://github.com/guysoft/CloudHealth_to_Slack) - Script that sends cloudhealth daily to slack
 - [guysoft/BackupFriend-docker](https://github.com/guysoft/BackupFriend-docker) - Docker for RaspberryPi distro that lets backup your stuff to a friend
 - [guysoft/raspistill-flask](https://github.com/guysoft/raspistill-flask) - Wrapper around raspistill to serve it as a flask server
-
-#### 🔭 Latest releases I've contributed to
-
-- [guysoft/MagicMirrorOS](https://github.com/guysoft/MagicMirrorOS) ([0.2.0](https://github.com/guysoft/MagicMirrorOS/releases/tag/0.2.0), 3 weeks ago) - MagicMirrorOS out-of-the-box distro
-- [jenkinsci/configurationslicing-plugin](https://github.com/jenkinsci/configurationslicing-plugin) ([configurationslicing-1.52](https://github.com/jenkinsci/configurationslicing-plugin/releases/tag/configurationslicing-1.52), 3 months ago) - Jenkins configurationslicing plugin
-- [guysoft/UbuntuDockerPi](https://github.com/guysoft/UbuntuDockerPi) ([0.2.0](https://github.com/guysoft/UbuntuDockerPi/releases/tag/0.2.0), 3 months ago) - An out of the box Raspberry P Ubuntu distro with a 64bit chroot with docker.
-- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) ([0.18.0](https://github.com/guysoft/OctoPi/releases/tag/0.18.0), 4 months ago) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
-- [guysoft/PleromaPi](https://github.com/guysoft/PleromaPi) ([0.1.0](https://github.com/guysoft/PleromaPi/releases/tag/0.1.0), 6 months ago) - RaspberryPi / CustomPiOS distro that run Pleroma out of the box
-- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) ([1.4.0](https://github.com/guysoft/CustomPiOS/releases/tag/1.4.0), 6 months ago) - A Raspberry Pi and other ARM devices distribution builder
-- [guysoft/MtigOS](https://github.com/guysoft/MtigOS) ([0.1.0](https://github.com/guysoft/MtigOS/releases/tag/0.1.0), 1 year ago) - An out of the box Raspberry Pi distro that lets you receive, store and graph sensor information from ESP8266 chips
-- [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) ([0.11.0](https://github.com/guysoft/FullPageOS/releases/tag/0.11.0), 1 year ago) - A raspberrypi distro to display a full page browser on boot
-- [wxFormBuilder/wxFormBuilder](https://github.com/wxFormBuilder/wxFormBuilder) ([v3.9.0](https://github.com/wxFormBuilder/wxFormBuilder/releases/tag/v3.9.0), 2 years ago) - RAD tool for wxWidgets GUI design
-- [imrahil/OctoPrint-PrintHistory](https://github.com/imrahil/OctoPrint-PrintHistory) ([1.2](https://github.com/imrahil/OctoPrint-PrintHistory/releases/tag/1.2), 4 years ago) - Plugin for OctoPrint - saves filename, print time and filament usage for each print
 
 #### ⚡ My recent blog posts
 
