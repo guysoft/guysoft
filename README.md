@@ -4,6 +4,16 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 
 #### 🌱 Check out what I'm currently working on
 
+- [guysoft/EnergySource](https://github.com/guysoft/EnergySource) - Energy Source Godot Jam project
+- [Gianclgar/GDScriptAudioImport](https://github.com/Gianclgar/GDScriptAudioImport) - A script in GDScript for importing .wav and .ogg audio files at runtime
+- [guysoft/remote-office](https://github.com/guysoft/remote-office) - Geekcon 2021 hackathon project of a remote office, you sit at home and control a robot at the office that site in front of your workstation
+- [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot
+- [guysoft/godot_import_action_reproduce](https://github.com/guysoft/godot_import_action_reproduce) - Reproduce https://github.com/guysoft/EnergySource/issues/3 (4 days ago)
+- [guysoft/jenkins-eks-docker](https://github.com/guysoft/jenkins-eks-docker) - Jenkins with eks kubectl ability on aws
+- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web (1 month ago)
+- [guysoft/hayush](https://github.com/guysoft/hayush) - Hayuhs docker to build the website
+- [imrahil/OctoPrint-PrintHistory](https://github.com/imrahil/OctoPrint-PrintHistory) - Plugin for OctoPrint - saves filename, print time and filament usage for each print (1 month ago)
+- [guysoft/OctoPi-Klipper](https://github.com/guysoft/OctoPi-Klipper) - OctoPi klipper using the CustoPiZer distro builder
 - [guysoft/pytorch-build-arm](https://github.com/guysoft/pytorch-build-arm) - Docker container ot build pytorch for arm used in LibrePhotos
 - [guysoft/BackupFriendPi](https://github.com/guysoft/BackupFriendPi) - A raspsberrypi distro you can put in your friend&#39;s house, or anywhere else, and it will let you backup your computer with history
 - [guysoft/backupfriend-client](https://github.com/guysoft/backupfriend-client) - Backupfriend wx widgets client
