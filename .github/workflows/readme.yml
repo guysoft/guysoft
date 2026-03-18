@@ -1,0 +1,46 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 */3 * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          template: templates/README.md.gtpl
+          writeTo: README.md
+
+      - name: Install yq
+        run: |
+          sudo wget -qO /usr/local/bin/yq https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64
+          sudo chmod +x /usr/local/bin/yq
+
+      - name: Generate pinned repos section
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          PINNED_MD=""
+          for repo in $(yq '.pinned_repos[]' config.yml); do
+            INFO=$(gh api "repos/${repo}" --jq '"- [" + .full_name + "](" + .html_url + ") - " + (.description // "No description") + " ⭐ " + (.stargazers_count | tostring)')
+            PINNED_MD="${PINNED_MD}${INFO}"$'\n'
+          done
+          # Replace placeholder using awk for multi-line safety
+          awk -v pinned="$PINNED_MD" '{gsub(/<!-- PINNED_REPOS -->/,pinned)}1' README.md > README.tmp && mv README.tmp README.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "readme-bot"
+          git config user.email "actions@github.com"
+          git add README.md
+          git diff --quiet --cached || git commit -m "Update README with latest data"
+          git push
