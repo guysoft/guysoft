@@ -2,37 +2,37 @@
 
 Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
 
-#### 🌱 Check out what I'm currently working on
+#### 📌 Pinned Repositories
+- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web ⭐ 2644
+- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder ⭐ 593
 
-- [guysoft/fedigroup](https://github.com/guysoft/fedigroup) - A federated simple group
-- [guysoft/LibrePhotosOS](https://github.com/guysoft/LibrePhotosOS) - An out of the box Raspberry Pi distro with LibrePhotos installed.
-- [guysoft/unofficialpi](https://github.com/guysoft/unofficialpi) - unofficialpi CI/CD scripts
-- [guysoft/pi-imager-web](https://github.com/guysoft/pi-imager-web) - Serve the pi-imager images list
-- [guysoft/OctoKlipperPi](https://github.com/guysoft/OctoKlipperPi) - OctoPi klipper using the CustoPiZer distro builder
-- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) ([1.0.0](https://github.com/guysoft/OctoPi/releases/tag/1.0.0), 3 days ago) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
-- [guysoft/EnergySource](https://github.com/guysoft/EnergySource) - Energy Source Godot Jam project
+#### 🌱 Check out what I'm currently working on
+- [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python. (1 day ago)
+- [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK (3 days ago)
+- [kivy/kivy-remote-shell](https://github.com/kivy/kivy-remote-shell) - Remote SSH + Python interactive shell in Kivy (5 days ago)
+- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web (1 day ago)
+- [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot (6 days ago)
+- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (20 days ago)
+- [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron. (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
-
-- [LibrePhotos/librephotos-docker](https://github.com/LibrePhotos/librephotos-docker) ([2023w08](https://github.com/LibrePhotos/librephotos-docker/releases/tag/2023w08), today) - You can find here the Dockerfiles for the automated build process of LibrePhotos.
-- [guysoft/OctoKlipperPi](https://github.com/guysoft/OctoKlipperPi) ([1.0.0.klipper.20230222112442](https://github.com/guysoft/OctoKlipperPi/releases/tag/1.0.0.klipper.20230222112442), 2 days ago) - OctoPi klipper using the CustoPiZer distro builder
-- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) ([1.0.0](https://github.com/guysoft/OctoPi/releases/tag/1.0.0), 3 days ago) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
-- [guysoft/UbuntuDockerPi](https://github.com/guysoft/UbuntuDockerPi) ([0.3.0](https://github.com/guysoft/UbuntuDockerPi/releases/tag/0.3.0), 2 months ago) - Ready to use 64bit ARM Docker for Raspberry Pi running on Ubuntu
-- [LemmyNet/lemmyBB](https://github.com/LemmyNet/lemmyBB) ([0.1.2](https://github.com/LemmyNet/lemmyBB/releases/tag/0.1.2), 3 months ago) - A federated bulletin board
-- [guysoft/ElectricSheepPi](https://github.com/guysoft/ElectricSheepPi) ([0.4.0](https://github.com/guysoft/ElectricSheepPi/releases/tag/0.4.0), 11 months ago) - A Raspberry Pi distribution to to run Electric Sheep 
-- [guysoft/HotSpotOS](https://github.com/guysoft/HotSpotOS) ([0.2.0](https://github.com/guysoft/HotSpotOS/releases/tag/0.2.0), 11 months ago) - Raspberry Pi OS that starts a hotspot, if no wifi was found to conenct to
-- [guysoft/EnergySource](https://github.com/guysoft/EnergySource) ([v0.0.44](https://github.com/guysoft/EnergySource/releases/tag/v0.0.44), 11 months ago) - Energy Source Godot Jam project
-- [guysoft/PleromaPi](https://github.com/guysoft/PleromaPi) ([0.3.0](https://github.com/guysoft/PleromaPi/releases/tag/0.3.0), 11 months ago) - RaspberryPi / CustomPiOS distro that run Pleroma out of the box
-- [jenkinsci/configurationslicing-plugin](https://github.com/jenkinsci/configurationslicing-plugin) ([430.v966357576543](https://github.com/jenkinsci/configurationslicing-plugin/releases/tag/430.v966357576543), 1 year ago) - Jenkins configurationslicing plugin
+- [guysoft/rt82display](https://github.com/guysoft/rt82display) ([v0.6.1](https://github.com/guysoft/rt82display/releases/tag/v0.6.1), 1 month ago) - Tool to upload images and gifs to Epomaker RT82 keyboard mini display
+- [guysoft/rt82display-weather](https://github.com/guysoft/rt82display-weather) ([v0.1.1](https://github.com/guysoft/rt82display-weather/releases/tag/v0.1.1), 1 month ago) - Weather display for Epomaker RT82 keyboard LCD screen
+- [guysoft/TempoVRWorkout](https://github.com/guysoft/TempoVRWorkout) ([v0.5.0](https://github.com/guysoft/TempoVRWorkout/releases/tag/v0.5.0), 1 month ago) - VR standalone offline-friendly workout Rhythm game
+- [guysoft/pip-uv](https://github.com/guysoft/pip-uv) ([v0.1.14](https://github.com/guysoft/pip-uv/releases/tag/v0.1.14), 4 months ago) - Do you keep forgetting to run uv pip install and just type pip install? This package is for you
+- [guysoft/OctoKlipperPi](https://github.com/guysoft/OctoKlipperPi) ([1.1.0.klipper.20250830231929](https://github.com/guysoft/OctoKlipperPi/releases/tag/1.1.0.klipper.20250830231929), 7 months ago) - OctoPi klipper using the CustoPiZer distro builder
+- [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) ([0.14.0](https://github.com/guysoft/FullPageOS/releases/tag/0.14.0), 8 months ago) - A raspberrypi distro to display a full page browser on boot
+- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) ([1.1.0](https://github.com/guysoft/OctoPi/releases/tag/1.1.0), 10 months ago) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
+- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) ([1.5.0](https://github.com/guysoft/CustomPiOS/releases/tag/1.5.0), 1 year ago) - A Raspberry Pi and other ARM devices distribution builder
+- [guysoft/EnergySource](https://github.com/guysoft/EnergySource) ([v0.0.44](https://github.com/guysoft/EnergySource/releases/tag/v0.0.44), 4 years ago) - Energy Source Godot Jam project
+- [guysoft/PleromaPi](https://github.com/guysoft/PleromaPi) ([0.3.0](https://github.com/guysoft/PleromaPi/releases/tag/0.3.0), 4 years ago) - RaspberryPi / CustomPiOS distro that run Pleroma out of the box
 
 #### ⚡ My recent blog posts
-
-- [Pi Imager – community managed fork of rpi-imager](https://guysoft.wordpress.com/2022/03/23/pi-imager/) (11 months ago)
-- [OctoPi-Klipper – OctoKlipperPi – OctoPi that ships pre-configured to work with Klipper](https://guysoft.wordpress.com/2021/11/01/octopi-klipper/) (1 year ago)
-- [BackupFriend – Self-hosted backup to your RaspberryPi with a history and UI!](https://guysoft.wordpress.com/2021/07/19/backupfriend/) (2 years ago)
-- [PleromaPi – Run your own distributed social network on RaspberryPi](https://guysoft.wordpress.com/2020/11/05/pleromapi/) (2 years ago)
-- [MtigOS – Plotting sensor data from ESP8266, where all of the work has been done for you](https://guysoft.wordpress.com/2020/03/02/mtigos/) (3 years ago)
-
+- [Truss violin – I deigned, 3D printed and built a violin and I am releasing it open source](https://guysoft.wordpress.com/2023/08/18/truss-violin/) (2 years ago)
+- [Fedigroup – group system for the Fediverse](https://guysoft.wordpress.com/2023/08/07/fedigroup/) (2 years ago)
+- [Back in 2018 – I made my first electric violin, and an FX system (repost from violinmakers)](https://guysoft.wordpress.com/2023/06/26/back-in-2018-i-made-an-electric-violin-and-an-fx-system/) (2 years ago)
+- [Pi Imager – community managed fork of rpi-imager](https://guysoft.wordpress.com/2022/03/23/pi-imager/) (4 years ago)
+- [OctoPi-Klipper – OctoKlipperPi – OctoPi that ships pre-configured to work with Klipper](https://guysoft.wordpress.com/2021/11/01/octopi-klipper/) (4 years ago)
 
 #### 💬 Feedback
 
