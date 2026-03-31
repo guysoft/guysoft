@@ -13,29 +13,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: muesli/readme-scribe@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        with:
-          template: templates/README.md.gtpl
-          writeTo: README.md
-
-      - name: Install yq
-        run: |
-          sudo wget -qO /usr/local/bin/yq https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64
-          sudo chmod +x /usr/local/bin/yq
-
-      - name: Generate pinned repos section
+      - name: Generate README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          PINNED_MD=""
-          for repo in $(yq '.pinned_repos[]' config.yml); do
-            INFO=$(gh api "repos/${repo}" --jq '"- [" + .full_name + "](" + .html_url + ") - " + (.description // "No description") + " ⭐ " + (.stargazers_count | tostring)')
-            PINNED_MD="${PINNED_MD}${INFO}"$'\n'
-          done
-          # Replace placeholder using awk for multi-line safety
-          awk -v pinned="$PINNED_MD" '{gsub(/<!-- PINNED_REPOS -->/,pinned)}1' README.md > README.tmp && mv README.tmp README.md
+        run: python3 generate_readme.py
 
       - name: Commit and push
         run: |
