@@ -4,23 +4,23 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 
 #### 📌 Pinned Repositories
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web ⭐ 2649
-- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder ⭐ 596
+- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder ⭐ 598
 
 #### 🌱 Check out what I'm currently working on
-- [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python. (7 days ago)
-- [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK (7 hours ago)
-- [kivy/kivy-remote-shell](https://github.com/kivy/kivy-remote-shell) - Remote SSH + Python interactive shell in Kivy (9 hours ago)
-- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web (15 days ago)
-- [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot (22 days ago)
-- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (15 days ago)
+- [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python. (10 days ago)
+- [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK (4 hours ago)
+- [kivy/kivy-remote-shell](https://github.com/kivy/kivy-remote-shell) - Remote SSH + Python interactive shell in Kivy (3 days ago)
+- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web (18 days ago)
+- [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot (25 days ago)
+- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (18 days ago)
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
-- [guysoft/midistrum](https://github.com/guysoft/midistrum) ([v0.2.11](https://github.com/guysoft/midistrum/releases/tag/v0.2.11), 27 days ago) - An app to use android's native midi system to create an omnichord/auto harp-like strum instrument. It also made me port native midi to kivy
+- [guysoft/midistrum](https://github.com/guysoft/midistrum) ([v0.2.11](https://github.com/guysoft/midistrum/releases/tag/v0.2.11), 1 month ago) - An app to use android's native midi system to create an omnichord/auto harp-like strum instrument. It also made me port native midi to kivy
 - [guysoft/opencode-termux](https://github.com/guysoft/opencode-termux) ([v0.0.0-1.3.13](https://github.com/guysoft/opencode-termux/releases/tag/v0.0.0-1.3.13), 1 month ago) - OpenCode AI coding assistant for Android/Termux - cross-compiled Bun + WebKit/JSC for aarch64
 - [guysoft/rt82display](https://github.com/guysoft/rt82display) ([v0.6.1](https://github.com/guysoft/rt82display/releases/tag/v0.6.1), 2 months ago) - Tool to upload images and gifs to Epomaker RT82 keyboard mini display
 - [guysoft/rt82display-weather](https://github.com/guysoft/rt82display-weather) ([v0.1.1](https://github.com/guysoft/rt82display-weather/releases/tag/v0.1.1), 2 months ago) - Weather display for Epomaker RT82 keyboard LCD screen
-- [guysoft/TempoVRWorkout](https://github.com/guysoft/TempoVRWorkout) ([v0.5.0](https://github.com/guysoft/TempoVRWorkout/releases/tag/v0.5.0), 2 months ago) - VR standalone offline-friendly workout Rhythm game
+- [guysoft/TempoVRWorkout](https://github.com/guysoft/TempoVRWorkout) ([v0.5.0](https://github.com/guysoft/TempoVRWorkout/releases/tag/v0.5.0), 3 months ago) - VR standalone offline-friendly workout Rhythm game
 - [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) ([0.14.0](https://github.com/guysoft/FullPageOS/releases/tag/0.14.0), 9 months ago) - A raspberrypi distro to display a full page browser on boot
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) ([1.1.0](https://github.com/guysoft/OctoPi/releases/tag/1.1.0), 1 year ago) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
 - [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) ([1.5.0](https://github.com/guysoft/CustomPiOS/releases/tag/1.5.0), 1 year ago) - A Raspberry Pi and other ARM devices distribution builder
