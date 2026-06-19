@@ -4,15 +4,15 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 
 #### 📌 Pinned Repositories
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web ⭐ 2655
-- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder ⭐ 602
+- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder ⭐ 601
 
 #### 🌱 Check out what I'm currently working on
-- [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python. (3 days ago)
-- [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK (15 days ago)
+- [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python. (6 days ago)
+- [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK (18 days ago)
 - [kivy/kivy-remote-shell](https://github.com/kivy/kivy-remote-shell) - Remote SSH + Python interactive shell in Kivy (1 month ago)
-- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web (24 days ago)
-- [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot (13 days ago)
-- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (24 days ago)
+- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web (27 days ago)
+- [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot (16 days ago)
+- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (27 days ago)
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
