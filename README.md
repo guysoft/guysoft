@@ -7,16 +7,16 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 - [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder ⭐ 603
 
 #### 🌱 Check out what I'm currently working on
-- [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python. (1 day ago)
-- [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK (3 days ago)
-- [kivy/kivy-remote-shell](https://github.com/kivy/kivy-remote-shell) - Remote SSH + Python interactive shell in Kivy (1 month ago)
+- [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python. (2 hours ago)
+- [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK (1 day ago)
+- [kivy/kivy-remote-shell](https://github.com/kivy/kivy-remote-shell) - Remote SSH + Python interactive shell in Kivy (2 months ago)
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web (1 month ago)
-- [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot (1 day ago)
-- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (1 day ago)
+- [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot (3 hours ago)
+- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (4 days ago)
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron. (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
-- [guysoft/opencode-termux](https://github.com/guysoft/opencode-termux) ([v0.2.1](https://github.com/guysoft/opencode-termux/releases/tag/v0.2.1), 8 days ago) - OpenCode AI coding assistant for Android/Termux - cross-compiled Bun + WebKit/JSC for aarch64
+- [guysoft/opencode-termux](https://github.com/guysoft/opencode-termux) ([v0.2.1](https://github.com/guysoft/opencode-termux/releases/tag/v0.2.1), 11 days ago) - OpenCode AI coding assistant for Android/Termux - cross-compiled Bun + WebKit/JSC for aarch64
 - [guysoft/script.retroarch.libreelec](https://github.com/guysoft/script.retroarch.libreelec) ([v0.1.0](https://github.com/guysoft/script.retroarch.libreelec/releases/tag/v0.1.0), 1 month ago) - Kodi addon: RetroArch + mupen64plus_next for LibreELEC on Pi 4/5
 - [guysoft/guyide-cli](https://github.com/guysoft/guyide-cli) ([v0.2.0](https://github.com/guysoft/guyide-cli/releases/tag/v0.2.0), 1 month ago) - AI-friendly CLI bridge to nvim, tmux, and DAP for GuyIDE
 - [guysoft/midistrum](https://github.com/guysoft/midistrum) ([v0.2.11](https://github.com/guysoft/midistrum/releases/tag/v0.2.11), 2 months ago) - An app to use android's native midi system to create an omnichord/auto harp-like strum instrument. It also made me port native midi to kivy
