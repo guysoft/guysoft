@@ -7,17 +7,17 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 - [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder ⭐ 610
 
 #### 🌱 Check out what I'm currently working on
-- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web (15 days ago)
+- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web (18 days ago)
 - [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot (1 month ago)
-- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (15 days ago)
+- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (18 days ago)
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron. (4 months ago)
-- [rainerblind/aTrainingTracker](https://github.com/rainerblind/aTrainingTracker) - An android app for tracking your sports activities (supporting ANT+ and BTLE) (7 days ago)
+- [rainerblind/aTrainingTracker](https://github.com/rainerblind/aTrainingTracker) - An android app for tracking your sports activities (supporting ANT+ and BTLE) (10 days ago)
 - [K552Control/k552control](https://github.com/K552Control/k552control) - No description (6 years ago)
 - [guysoft/jenkins-eks-docker](https://github.com/guysoft/jenkins-eks-docker) - Jenkins with eks kubectl ability on aws (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
-- [guysoft/guyide-cli](https://github.com/guysoft/guyide-cli) ([v0.2.1](https://github.com/guysoft/guyide-cli/releases/tag/v0.2.1), 5 days ago) - AI-friendly CLI bridge to nvim, tmux, and DAP for GuyIDE
-- [guysoft/TempoVRWorkout](https://github.com/guysoft/TempoVRWorkout) ([v0.6.0](https://github.com/guysoft/TempoVRWorkout/releases/tag/v0.6.0), 15 days ago) - VR standalone offline-friendly workout Rhythm game
+- [guysoft/guyide-cli](https://github.com/guysoft/guyide-cli) ([v0.2.1](https://github.com/guysoft/guyide-cli/releases/tag/v0.2.1), 8 days ago) - AI-friendly CLI bridge to nvim, tmux, and DAP for GuyIDE
+- [guysoft/TempoVRWorkout](https://github.com/guysoft/TempoVRWorkout) ([v0.6.0](https://github.com/guysoft/TempoVRWorkout/releases/tag/v0.6.0), 18 days ago) - VR standalone offline-friendly workout Rhythm game
 - [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) ([2.0.0](https://github.com/guysoft/CustomPiOS/releases/tag/2.0.0), 1 month ago) - A Raspberry Pi and other ARM devices distribution builder
 - [guysoft/opencode-termux](https://github.com/guysoft/opencode-termux) ([v0.2.1](https://github.com/guysoft/opencode-termux/releases/tag/v0.2.1), 1 month ago) - OpenCode AI coding assistant for Android/Termux - cross-compiled Bun + WebKit/JSC for aarch64
 - [guysoft/script.retroarch.libreelec](https://github.com/guysoft/script.retroarch.libreelec) ([v0.1.0](https://github.com/guysoft/script.retroarch.libreelec/releases/tag/v0.1.0), 3 months ago) - Kodi addon: RetroArch + mupen64plus_next for LibreELEC on Pi 4/5
