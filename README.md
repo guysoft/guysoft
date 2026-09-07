@@ -8,17 +8,17 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 
 #### 🌱 Check out what I'm currently working on
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web (1 month ago)
-- [imrahil/OctoPrint-PrintHistory](https://github.com/imrahil/OctoPrint-PrintHistory) - Plugin for OctoPrint - saves filename, print time and filament usage for each print (7 days ago)
+- [imrahil/OctoPrint-PrintHistory](https://github.com/imrahil/OctoPrint-PrintHistory) - Plugin for OctoPrint - saves filename, print time and filament usage for each print (10 days ago)
 - [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot (1 month ago)
-- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (16 hours ago)
+- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (11 hours ago)
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron. (5 months ago)
-- [rainerblind/aTrainingTracker](https://github.com/rainerblind/aTrainingTracker) - An android app for tracking your sports activities (supporting ANT+ and BTLE) (23 days ago)
+- [rainerblind/aTrainingTracker](https://github.com/rainerblind/aTrainingTracker) - An android app for tracking your sports activities (supporting ANT+ and BTLE) (4 hours ago)
 - [K552Control/k552control](https://github.com/K552Control/k552control) - No description (6 years ago)
 
 #### 🔭 Latest releases I've contributed to
-- [guysoft/crush](https://github.com/guysoft/crush) ([v0.1.0-crush0.89.0](https://github.com/guysoft/crush/releases/tag/v0.1.0-crush0.89.0), 1 day ago) - Glamourous agentic coding for all 💘
-- [guysoft/firefox-ip-indicator](https://github.com/guysoft/firefox-ip-indicator) ([v1.0.0](https://github.com/guysoft/firefox-ip-indicator/releases/tag/v1.0.0), 8 days ago) - Firefox add-on (desktop and Android) that shows the IP a site is served from, and whether the connection is IPv4 or IPv6.
-- [guysoft/guyide-cli](https://github.com/guysoft/guyide-cli) ([v0.2.1](https://github.com/guysoft/guyide-cli/releases/tag/v0.2.1), 21 days ago) - AI-friendly CLI bridge to nvim, tmux, and DAP for GuyIDE
+- [guysoft/crush](https://github.com/guysoft/crush) ([v0.1.0-crush0.89.0](https://github.com/guysoft/crush/releases/tag/v0.1.0-crush0.89.0), 4 days ago) - Glamourous agentic coding for all 💘
+- [guysoft/firefox-ip-indicator](https://github.com/guysoft/firefox-ip-indicator) ([v1.0.0](https://github.com/guysoft/firefox-ip-indicator/releases/tag/v1.0.0), 11 days ago) - Firefox add-on (desktop and Android) that shows the IP a site is served from, and whether the connection is IPv4 or IPv6.
+- [guysoft/guyide-cli](https://github.com/guysoft/guyide-cli) ([v0.2.1](https://github.com/guysoft/guyide-cli/releases/tag/v0.2.1), 24 days ago) - AI-friendly CLI bridge to nvim, tmux, and DAP for GuyIDE
 - [guysoft/TempoVRWorkout](https://github.com/guysoft/TempoVRWorkout) ([v0.6.0](https://github.com/guysoft/TempoVRWorkout/releases/tag/v0.6.0), 1 month ago) - VR standalone offline-friendly workout Rhythm game
 - [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) ([2.0.0](https://github.com/guysoft/CustomPiOS/releases/tag/2.0.0), 1 month ago) - A Raspberry Pi and other ARM devices distribution builder
 - [guysoft/opencode-termux](https://github.com/guysoft/opencode-termux) ([v0.2.1](https://github.com/guysoft/opencode-termux/releases/tag/v0.2.1), 2 months ago) - OpenCode AI coding assistant for Android/Termux - cross-compiled Bun + WebKit/JSC for aarch64
