@@ -3,16 +3,16 @@
 Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
 
 #### 📌 Pinned Repositories
-- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web ⭐ 2665
+- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web ⭐ 2666
 - [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder ⭐ 610
 
 #### 🌱 Check out what I'm currently working on
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web (2 months ago)
 - [imrahil/OctoPrint-PrintHistory](https://github.com/imrahil/OctoPrint-PrintHistory) - Plugin for OctoPrint - saves filename, print time and filament usage for each print (1 month ago)
 - [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot (2 months ago)
-- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (25 days ago)
+- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (28 days ago)
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron. (6 months ago)
-- [rainerblind/aTrainingTracker](https://github.com/rainerblind/aTrainingTracker) - An android app for tracking your sports activities (supporting ANT+ and BTLE) (10 hours ago)
+- [rainerblind/aTrainingTracker](https://github.com/rainerblind/aTrainingTracker) - An android app for tracking your sports activities (supporting ANT+ and BTLE) (1 day ago)
 - [K552Control/k552control](https://github.com/K552Control/k552control) - No description (7 years ago)
 
 #### 🔭 Latest releases I've contributed to
