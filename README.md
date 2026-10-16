@@ -12,7 +12,7 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 - [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot (3 months ago)
 - [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (1 month ago)
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron. (6 months ago)
-- [rainerblind/aTrainingTracker](https://github.com/rainerblind/aTrainingTracker) - An android app for tracking your sports activities (supporting ANT+ and BTLE) (5 hours ago)
+- [rainerblind/aTrainingTracker](https://github.com/rainerblind/aTrainingTracker) - An android app for tracking your sports activities (supporting ANT+ and BTLE) (6 hours ago)
 - [K552Control/k552control](https://github.com/K552Control/k552control) - No description (7 years ago)
 
 #### 🔭 Latest releases I've contributed to
