@@ -10,9 +10,9 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web (2 months ago)
 - [imrahil/OctoPrint-PrintHistory](https://github.com/imrahil/OctoPrint-PrintHistory) - Plugin for OctoPrint - saves filename, print time and filament usage for each print (2 months ago)
 - [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot (3 months ago)
-- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (2 days ago)
+- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (3 days ago)
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron. (7 months ago)
-- [rainerblind/aTrainingTracker](https://github.com/rainerblind/aTrainingTracker) - An android app for tracking your sports activities (supporting ANT+ and BTLE) (7 days ago)
+- [rainerblind/aTrainingTracker](https://github.com/rainerblind/aTrainingTracker) - An android app for tracking your sports activities (supporting ANT+ and BTLE) (2 hours ago)
 - [K552Control/k552control](https://github.com/K552Control/k552control) - No description (7 years ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -32,7 +32,7 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 - [Fedigroup – group system for the Fediverse](https://guysoft.wordpress.com/2023/08/07/fedigroup/) (3 years ago)
 - [Back in 2018 – I made my first electric violin, and an FX system (repost from violinmakers)](https://guysoft.wordpress.com/2023/06/26/back-in-2018-i-made-an-electric-violin-and-an-fx-system/) (3 years ago)
 - [Pi Imager – community managed fork of rpi-imager](https://guysoft.wordpress.com/2022/03/23/pi-imager/) (4 years ago)
-- [OctoPi-Klipper – OctoKlipperPi – OctoPi that ships pre-configured to work with Klipper](https://guysoft.wordpress.com/2021/11/01/octopi-klipper/) (4 years ago)
+- [OctoPi-Klipper – OctoKlipperPi – OctoPi that ships pre-configured to work with Klipper](https://guysoft.wordpress.com/2021/11/01/octopi-klipper/) (5 years ago)
 
 #### 💬 Feedback
 
