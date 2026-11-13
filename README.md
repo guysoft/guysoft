@@ -3,24 +3,24 @@
 Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
 
 #### 📌 Pinned Repositories
-- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web ⭐ 2677
+- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web ⭐ 2678
 - [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder ⭐ 613
 
 #### 🌱 Check out what I'm currently working on
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web (3 months ago)
 - [imrahil/OctoPrint-PrintHistory](https://github.com/imrahil/OctoPrint-PrintHistory) - Plugin for OctoPrint - saves filename, print time and filament usage for each print (2 months ago)
 - [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot (1 day ago)
-- [amitdar/FullPageDashboard](https://github.com/amitdar/FullPageDashboard) - Full page dashboard app for FullPageOS (17 hours ago)
-- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (1 day ago)
+- [amitdar/FullPageDashboard](https://github.com/amitdar/FullPageDashboard) - Full page dashboard app for FullPageOS (3 days ago)
+- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (4 days ago)
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron. (7 months ago)
-- [rainerblind/aTrainingTracker](https://github.com/rainerblind/aTrainingTracker) - An android app for tracking your sports activities (supporting ANT+ and BTLE) (1 day ago)
+- [rainerblind/aTrainingTracker](https://github.com/rainerblind/aTrainingTracker) - An android app for tracking your sports activities (supporting ANT+ and BTLE) (6 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 - [guysoft/crush](https://github.com/guysoft/crush) ([v0.1.0-crush0.89.0](https://github.com/guysoft/crush/releases/tag/v0.1.0-crush0.89.0), 2 months ago) - Glamourous agentic coding for all 💘
 - [guysoft/firefox-ip-indicator](https://github.com/guysoft/firefox-ip-indicator) ([v1.0.0](https://github.com/guysoft/firefox-ip-indicator/releases/tag/v1.0.0), 2 months ago) - Firefox add-on (desktop and Android) that shows the IP a site is served from, and whether the connection is IPv4 or IPv6.
-- [guysoft/guyide-cli](https://github.com/guysoft/guyide-cli) ([v0.2.1](https://github.com/guysoft/guyide-cli/releases/tag/v0.2.1), 2 months ago) - AI-friendly CLI bridge to nvim, tmux, and DAP for GuyIDE
+- [guysoft/guyide-cli](https://github.com/guysoft/guyide-cli) ([v0.2.1](https://github.com/guysoft/guyide-cli/releases/tag/v0.2.1), 3 months ago) - AI-friendly CLI bridge to nvim, tmux, and DAP for GuyIDE
 - [guysoft/TempoVRWorkout](https://github.com/guysoft/TempoVRWorkout) ([v0.6.0](https://github.com/guysoft/TempoVRWorkout/releases/tag/v0.6.0), 3 months ago) - VR standalone offline-friendly workout Rhythm game
-- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) ([2.0.0](https://github.com/guysoft/CustomPiOS/releases/tag/2.0.0), 3 months ago) - A Raspberry Pi and other ARM devices distribution builder
+- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) ([2.0.0](https://github.com/guysoft/CustomPiOS/releases/tag/2.0.0), 4 months ago) - A Raspberry Pi and other ARM devices distribution builder
 - [guysoft/opencode-termux](https://github.com/guysoft/opencode-termux) ([v0.2.1](https://github.com/guysoft/opencode-termux/releases/tag/v0.2.1), 4 months ago) - OpenCode AI coding assistant for Android/Termux - cross-compiled Bun + WebKit/JSC for aarch64
 - [guysoft/script.retroarch.libreelec](https://github.com/guysoft/script.retroarch.libreelec) ([v0.1.0](https://github.com/guysoft/script.retroarch.libreelec/releases/tag/v0.1.0), 6 months ago) - Kodi addon: RetroArch + mupen64plus_next for LibreELEC on Pi 4/5
 - [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) ([0.14.0](https://github.com/guysoft/FullPageOS/releases/tag/0.14.0), 1 year ago) - A raspberrypi distro to display a full page browser on boot
