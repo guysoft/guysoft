@@ -3,17 +3,17 @@
 Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
 
 #### 📌 Pinned Repositories
-- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web ⭐ 2678
+- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web ⭐ 2675
 - [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder ⭐ 613
 
 #### 🌱 Check out what I'm currently working on
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web (3 months ago)
 - [imrahil/OctoPrint-PrintHistory](https://github.com/imrahil/OctoPrint-PrintHistory) - Plugin for OctoPrint - saves filename, print time and filament usage for each print (2 months ago)
-- [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot (1 day ago)
-- [amitdar/FullPageDashboard](https://github.com/amitdar/FullPageDashboard) - Full page dashboard app for FullPageOS (3 days ago)
-- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (4 days ago)
+- [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot (4 days ago)
+- [amitdar/FullPageDashboard](https://github.com/amitdar/FullPageDashboard) - Full page dashboard app for FullPageOS (6 days ago)
+- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (7 days ago)
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron. (7 months ago)
-- [rainerblind/aTrainingTracker](https://github.com/rainerblind/aTrainingTracker) - An android app for tracking your sports activities (supporting ANT+ and BTLE) (6 hours ago)
+- [rainerblind/aTrainingTracker](https://github.com/rainerblind/aTrainingTracker) - An android app for tracking your sports activities (supporting ANT+ and BTLE) (3 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 - [guysoft/crush](https://github.com/guysoft/crush) ([v0.1.0-crush0.89.0](https://github.com/guysoft/crush/releases/tag/v0.1.0-crush0.89.0), 2 months ago) - Glamourous agentic coding for all 💘
