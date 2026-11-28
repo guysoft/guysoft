@@ -3,20 +3,20 @@
 Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
 
 #### 📌 Pinned Repositories
-- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web ⭐ 2676
-- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder ⭐ 614
+- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web ⭐ 2678
+- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder ⭐ 615
 
 #### 🌱 Check out what I'm currently working on
-- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web (5 days ago)
-- [imrahil/OctoPrint-PrintHistory](https://github.com/imrahil/OctoPrint-PrintHistory) - Plugin for OctoPrint - saves filename, print time and filament usage for each print (2 months ago)
-- [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot (13 days ago)
-- [amitdar/FullPageDashboard](https://github.com/amitdar/FullPageDashboard) - Full page dashboard app for FullPageOS (15 days ago)
-- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (6 days ago)
+- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web (8 days ago)
+- [imrahil/OctoPrint-PrintHistory](https://github.com/imrahil/OctoPrint-PrintHistory) - Plugin for OctoPrint - saves filename, print time and filament usage for each print (3 months ago)
+- [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot (16 days ago)
+- [amitdar/FullPageDashboard](https://github.com/amitdar/FullPageDashboard) - Full page dashboard app for FullPageOS (18 days ago)
+- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder (9 days ago)
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron. (8 months ago)
-- [rainerblind/aTrainingTracker](https://github.com/rainerblind/aTrainingTracker) - An android app for tracking your sports activities (supporting ANT+ and BTLE) (4 days ago)
+- [rainerblind/aTrainingTracker](https://github.com/rainerblind/aTrainingTracker) - An android app for tracking your sports activities (supporting ANT+ and BTLE) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
-- [guysoft/blackbox-fm1](https://github.com/guysoft/blackbox-fm1) ([v0.1.0-alpha.1](https://github.com/guysoft/blackbox-fm1/releases/tag/v0.1.0-alpha.1), 6 days ago) - Experimental Felucca synthesizer firmware port for the M-VAVE ANN Blackbox, with guarded USB development tools
+- [guysoft/blackbox-fm1](https://github.com/guysoft/blackbox-fm1) ([v0.1.0-alpha.1](https://github.com/guysoft/blackbox-fm1/releases/tag/v0.1.0-alpha.1), 9 days ago) - Experimental Felucca synthesizer firmware port for the M-VAVE ANN Blackbox, with guarded USB development tools
 - [guysoft/crush](https://github.com/guysoft/crush) ([v0.1.0-crush0.89.0](https://github.com/guysoft/crush/releases/tag/v0.1.0-crush0.89.0), 2 months ago) - Glamourous agentic coding for all 💘
 - [guysoft/firefox-ip-indicator](https://github.com/guysoft/firefox-ip-indicator) ([v1.0.0](https://github.com/guysoft/firefox-ip-indicator/releases/tag/v1.0.0), 3 months ago) - Firefox add-on (desktop and Android) that shows the IP a site is served from, and whether the connection is IPv4 or IPv6.
 - [guysoft/guyide-cli](https://github.com/guysoft/guyide-cli) ([v0.2.1](https://github.com/guysoft/guyide-cli/releases/tag/v0.2.1), 3 months ago) - AI-friendly CLI bridge to nvim, tmux, and DAP for GuyIDE
@@ -25,7 +25,7 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 - [guysoft/opencode-termux](https://github.com/guysoft/opencode-termux) ([v0.2.1](https://github.com/guysoft/opencode-termux/releases/tag/v0.2.1), 5 months ago) - OpenCode AI coding assistant for Android/Termux - cross-compiled Bun + WebKit/JSC for aarch64
 - [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) ([0.14.0](https://github.com/guysoft/FullPageOS/releases/tag/0.14.0), 1 year ago) - A raspberrypi distro to display a full page browser on boot
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) ([1.1.0](https://github.com/guysoft/OctoPi/releases/tag/1.1.0), 1 year ago) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
-- [imrahil/OctoPrint-PrintHistory](https://github.com/imrahil/OctoPrint-PrintHistory) ([1.4.1](https://github.com/imrahil/OctoPrint-PrintHistory/releases/tag/1.4.1), 3 years ago) - Plugin for OctoPrint - saves filename, print time and filament usage for each print
+- [guysoft/PowerBeatsVR_song_writer](https://github.com/guysoft/PowerBeatsVR_song_writer) ([0.3.0](https://github.com/guysoft/PowerBeatsVR_song_writer/releases/tag/0.3.0), 3 years ago) - Convert a beats saber song to a powerbeats vr song
 
 #### ⚡ My recent blog posts
 - [Truss violin – I deigned, 3D printed and built a violin and I am releasing it open source](https://guysoft.wordpress.com/2023/08/18/truss-violin/) (3 years ago)
